@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+    <string name="pref_title_domotics_server">Domotics Server Location</string>
+    <string name="pref_default_domotics_server">http://admin.as.local</string>
+
+</resources>
