@@ -10,5 +10,23 @@
         android:selectAllOnFocus="true"
         android:singleLine="true"
         android:title="@string/pref_title_domotics_server" />
+    
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_domotics_user"
+        android:inputType="text"
+        android:key="domotics_user"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_domotics_user" />
+    
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_domotics_password"
+        android:inputType="textPassword"
+        android:key="domotics_password"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_domotics_password" />
 
 </PreferenceScreen>
