@@ -8,7 +8,7 @@
     <!-- Example General settings -->
     <string name="pref_header_general">General</string>
     <string name="pref_title_domotics_server">Domotics Server Location</string>
-    <string name="pref_default_domotics_server">http://admin.as.local</string>
+    <string name="pref_default_domotics_server">https://dom.goredar.it</string>
     
     <string name="pref_title_domotics_user">Username</string>
     <string name="pref_default_domotics_user">user</string>
